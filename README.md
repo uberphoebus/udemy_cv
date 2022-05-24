@@ -1,2 +1,2 @@
 # udemy_cv
-Udemy Computer Vision : Master Class
+Udemy Computer Vision : Masterclass
